@@ -1,4 +1,4 @@
-# Game-sco-Sales
+# Game-co-Sales
 As I developed my foundation, I worked with GameCo's sales statistics on video
 games. I was asked to perform an end-to-end analysis of data from 1980 to 2017 in
 order to get insights for boosting global sales.
