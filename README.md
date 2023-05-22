@@ -9,3 +9,5 @@ and visualization using pivot tables and the various charts offered by Excel. La
 presented it to the stakeholders as a presentation.
 The above-mentioned attachments include the project brief, raw data, analysis, and
 final main presentations.
+## Tools Used:
+Microsoft Excel
