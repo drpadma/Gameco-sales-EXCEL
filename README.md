@@ -1,6 +1,5 @@
 # Game-co-Sales
-As I developed my foundation, I worked with GameCo's sales statistics on video
-games. I was asked to perform an end-to-end analysis of data from 1980 to 2017 in
+As I developed my foundation, I worked with GameCo's sales statistics on video games. I was asked to perform an end-to-end analysis of data from 1980 to 2017 in
 order to get insights for boosting global sales.
 I began my analysis using the industry standard tool &quot;Excel&quot; based on the project
 brief provided by the company. This analysis involved data cleaning (removing
